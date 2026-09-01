@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@source "../dist";
+
+
+@theme {
+  --color-indigo-950: #1e1b4b;
+  --color-slate-950: #020617;
+  --color-blue-950: #172554;
+  --color-gray-900: #0f172a
+}
